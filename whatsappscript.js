@@ -33,5 +33,5 @@ function sendScript(scriptText){
     myLoop(); 
 }
 
-enviarScript(` your desired text goes here
+sendScript(` your desired text goes here
 `);
